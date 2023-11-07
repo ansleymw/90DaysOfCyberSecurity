@@ -1,5 +1,8 @@
 # Learning Resources
 
+
+
+
 ## Network+
 - Professor Messer's N10-008 Playlist: https://youtube.com/playlist?list=PLG49S3nxzAnlCJiCrOYuRYb6cne864a7G
 
@@ -54,4 +57,20 @@
 
 ## Where and How to Apply
 - Indeed: https://indeed.com
-- LinkedIn: https://linkedin.com
+- LinkedIn: https://linkedin.com  
+System.out.println("Ansley");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
